@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/eds-commerce-test2/Shared%20Documents/EDS-Commerce-data?csf=1&web=1&e=Ux1WLk
+  /: https://adobe.sharepoint.com/:f:/r/sites/edscommercedata/Shared%20Documents/edscommercedata/eds-commerce-storefront?csf=1&web=1&e=sEaz8T
 
 folders:
   /products/: /products/default
